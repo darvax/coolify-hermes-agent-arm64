@@ -108,4 +108,4 @@ Hermes Agent is developed and maintained by the Hermes project contributors. Ple
 
 ## License
 
-MIT License
+[MIT License](https://github.com/darvax/coolify-hermes-agent-arm64?tab=MIT-1-ov-file)
