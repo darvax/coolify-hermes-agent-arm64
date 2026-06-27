@@ -46,6 +46,7 @@ HERMES_VOLUME_HOME=hermes-personal-home
 HERMES_VOLUME_SRC=hermes-personal-src
 HERMES_VOLUME_WORKSPACE=hermes-personal-workspace
 TELEGRAM_BOT_TOKEN=<your token>
+TELEGRAM_ALLOWED_USERS=<your telegram user ID>
 ```
 
 Optional AI Provider Keys:
